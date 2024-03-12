@@ -1,55 +1,55 @@
-Nome: Felipe Buono Evangelista
+--Nome: Felipe Buono Evangelista
 
-Estudante de Engenharia da Computação
-
-
-Habilidades:
-
-Python
-
-SQL
-
-R
-
-Power BI
-
-Data Science Full Stack
-
-Desenvolvimento Web (HTML, CSS, JavaScript)
+► Estudante de Engenharia da Computação
 
 
-Projetos:
+--Habilidades:
 
-PIBIC: Criação de um site para Comunicação entre Biomédicos.
+► Python
 
-CSI Filtros e não Tecidos: Criação de um Dashboard para controle de reclamações
+► SQL
 
+► R
 
-Outros:
+► Power BI
 
-Currículo: https://drive.google.com/drive/folders/1y5uC0vL8ZXjFM3ZrKuLWNfm5NZsB4aYP?usp=sharing
+► Data Science Full Stack
 
-LinkedIn: https://www.linkedin.com/in/felipe-buono/
-
-
-Sobre mim:
-
-Sou um estudante de Engenharia da Computação apaixonado por tecnologia e inovação. Tenho experiência em diversas áreas da computação, incluindo desenvolvimento web, análise de dados e ciência de dados. Sou um profissional dedicado e proativo, sempre buscando novos -desafios e oportunidades de aprendizado.
+► Desenvolvimento Web (HTML, CSS, JavaScript)
 
 
-Contato:
+--Projetos:
 
-E-mail: felipebuono.evan@gmail.com
+► PIBIC: Criação de um site para Comunicação entre Biomédicos.
 
-Telefone: +55 (18) 99155-1819
+► CSI Filtros e não Tecidos: Criação de um Dashboard para controle de reclamações
 
 
-Estou aberto a oportunidades de:
+--Outros:
 
-Estágio
+► Currículo: https://drive.google.com/drive/folders/1y5uC0vL8ZXjFM3ZrKuLWNfm5NZsB4aYP?usp=sharing
 
-Emprego
+► LinkedIn: https://www.linkedin.com/in/felipe-buono/
 
-Freelancer
 
-Se você estiver interessado em saber mais sobre mim ou sobre meus projetos, por favor, entre em contato comigo.
+--Sobre mim:
+
+► Sou um estudante de Engenharia da Computação apaixonado por tecnologia e inovação. Tenho experiência em diversas áreas da computação, incluindo desenvolvimento web, análise de dados e ciência de dados. Sou um profissional dedicado e proativo, sempre buscando novos -desafios e oportunidades de aprendizado.
+
+
+--Contato:
+
+► E-mail: felipebuono.evan@gmail.com
+
+► Telefone: +55 (18) 99155-1819
+
+
+--Estou aberto a oportunidades de:
+
+► Estágio
+
+► Emprego
+
+► Freelancer
+
+--Se você estiver interessado em saber mais sobre mim ou sobre meus projetos, por favor, entre em contato comigo.
